@@ -1,0 +1,23 @@
+/* PHAN LIEN HE */
+.contact-box {
+    background-color: #172849;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #244477;
+}
+
+.contact-box p {
+    color: #EAF1FF;
+    margin-bottom: 10px;
+}
+
+.contact-box a {
+    color: #5799FF;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.contact-box a:hover {
+    color: #FFFFFF;
+}

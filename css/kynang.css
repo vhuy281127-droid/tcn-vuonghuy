@@ -1,0 +1,20 @@
+/* CAC THE KY NANG */
+.skill-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.skill-box {
+    flex: 1;
+    min-width: 130px;
+    background-color: #172849;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #244477;
+}
+
+.skill-box h3 {
+    color: #5799FF;
+    margin-bottom: 10px;
+}

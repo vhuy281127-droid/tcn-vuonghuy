@@ -1,0 +1,30 @@
+/* COT BEN TRAI */
+.sidebar {
+    width: 30%;
+    background-color: #101D38;
+    padding: 25px;
+    border-radius: 20px;
+    border: 1px solid #244477;
+}
+
+/* ANH DAI DIEN */
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #5799FF;
+}
+
+.profile h1 {
+    color: #5799FF;
+    margin-top: 15px;
+}
+
+.profile p {
+    color: #B9C9E8;
+}

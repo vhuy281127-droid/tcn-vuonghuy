@@ -1,0 +1,20 @@
+/* PHAN GIOI THIEU */
+.intro h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.intro p {
+    color: #C5D3EC;
+    margin-bottom: 20px;
+}
+
+/* NUT XEM DU AN */
+.intro a {
+    display: inline-block;
+    background-color: #5799FF;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+}

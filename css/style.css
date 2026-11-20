@@ -1,0 +1,49 @@
+/* CAU HINH CHUNG */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #080F1F;
+    color: #EAF1FF;
+    line-height: 1.6;
+}
+
+/* BO CUC CHINH */
+.container {
+    display: flex;
+    gap: 25px;
+    padding: 30px 5%;
+    align-items: flex-start;
+}
+
+/* COT BEN PHAI */
+.main-content {
+    width: 70%;
+}
+
+/* CAC KHUNG NOI DUNG */
+.main-content section {
+    background-color: #101D38;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 18px;
+    border: 1px solid #244477;
+}
+
+/* TIEU DE CAC PHAN */
+.main-content section h2 {
+    color: #5799FF;
+    font-size: 23px;
+    margin-bottom: 18px;
+}
+
+/* CHAN TRANG */
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #9CB0D2;
+}

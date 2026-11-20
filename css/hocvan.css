@@ -1,0 +1,18 @@
+/* PHAN HOC VAN */
+.education-box {
+    background-color: #172849;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #244477;
+}
+
+.education-box h3 {
+    color: #5799FF;
+    margin-bottom: 10px;
+}
+
+.education-box p {
+    color: #EAF1FF;
+    margin-bottom: 5px;
+}

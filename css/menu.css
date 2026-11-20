@@ -1,0 +1,34 @@
+
+/* THANH MENU */
+header {
+    background-color: #101D38;
+    padding: 20px 5%;
+    border-bottom: 1px solid #244477;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: #5799FF;
+    font-size: 28px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #EAF1FF;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: #5799FF;
+}
